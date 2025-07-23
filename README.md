@@ -1,5 +1,4 @@
-# Agentic AI Security Orchestrator on GCP
-Agentic AI orchestrator for GCP security — auto-triage &amp; remediation via LM + MCP.
+#Agentic AI orchestrator for GCP security — auto-triage &amp; remediation via LM + MCP.
 
 ## 🔐 Overview
 This project implements an **Agentic AI orchestrator** that automates security alert triage and basic remediation on Google Cloud using OpenAI/Vertex AI + MCP.
